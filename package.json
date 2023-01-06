@@ -1,0 +1,33 @@
+{
+  "name": "fibonacci-sequence",
+  "version": "1.0.0",
+  "description": "A fibonacci sequence program that runs on the console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devgranty/Fibonacci-sequence.git"
+  },
+  "keywords": [
+    "Grant",
+    "Adiele",
+    "Fib",
+    "Fibonacci",
+    "Sequence",
+    "Series"
+  ],
+  "author": "Grant Adiele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devgranty/Fibonacci-sequence/issues"
+  },
+  "homepage": "https://github.com/devgranty/Fibonacci-sequence#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fibonacci-series": "^1.0.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
